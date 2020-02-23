@@ -1,0 +1,11 @@
+datastructure#initialization#size#inittime#addtime#totaltime
+[RustVector]#true#10000#4318#884229#889105
+[RustVector]#false#10000#301#899183#899902
+[RustVector]#true#10000#3602#893513#897606
+[RustVector]#false#10000#339#893080#893946
+[RustVector]#true#10000#3829#874878#879175
+[RustVector]#false#10000#297#908843#909521
+[RustVector]#true#10000#3835#897343#901583
+[RustVector]#false#10000#446#888786#889614
+[RustVector]#true#10000#3822#896019#900325
+[RustVector]#false#10000#283#889469#890162

@@ -1,0 +1,1512 @@
+   Compiling libc v0.2.66
+   Compiling getrandom v0.1.14
+   Compiling cfg-if v0.1.10
+   Compiling ppv-lite86 v0.2.6
+   Compiling bytes v0.5.4
+   Compiling c2-chacha v0.2.3
+   Compiling rand_core v0.5.1
+   Compiling rand_chacha v0.2.1
+   Compiling rand v0.7.3
+   Compiling rust_object_ref_own_slice v0.1.0 (/home/goli4goli6/research/master-thesis/project/rust_object_ref_own_slice)
+    Finished release [optimized] target(s) in 12.74s
+Adding 1000000 elements in Run number  1 
+   Compiling libc v0.2.66
+   Compiling getrandom v0.1.14
+   Compiling cfg-if v0.1.10
+   Compiling ppv-lite86 v0.2.6
+   Compiling bytes v0.5.4
+   Compiling c2-chacha v0.2.3
+   Compiling rand_core v0.5.1
+   Compiling rand_chacha v0.2.1
+   Compiling rand v0.7.3
+   Compiling rust_object_ref_own_slice v0.1.0 (/home/goli4goli6/research/master-thesis/project/rust_object_ref_own_slice)
+    Finished dev [unoptimized + debuginfo] target(s) in 10.24s
+     Running `target/debug/rust_object_ref_own_slice 1000000 1`
+[RustVector]#1000000#"own"#373697930#621694464773#634181340834#15
+
+
+real	10m44.777s
+user	0m43.116s
+sys	0m57.584s
+Adding 1000000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1000000 1`
+[RustVector]#1000000#"own"#356744951#623217641538#635688812593#15
+
+
+real	10m36.071s
+user	0m33.476s
+sys	0m58.088s
+Adding 1000000 elements in Run number  3 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1000000 1`
+[RustVector]#1000000#"own"#359726729#628755041375#641233102552#15
+
+
+real	10m41.610s
+user	0m33.372s
+sys	0m57.644s
+Adding 1000000 elements in Run number  4 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1000000 1`
+[RustVector]#1000000#"own"#361958003#635203616067#647663422599#15
+
+
+real	10m48.041s
+user	0m33.744s
+sys	0m58.288s
+Adding 1000000 elements in Run number  5 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1000000 1`
+[RustVector]#1000000#"own"#359778883#625889601121#638351062981#15
+
+
+real	10m38.728s
+user	0m32.844s
+sys	0m57.108s
+Adding 1000000 elements in Run number  1 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1000000 2`
+[RustVector]#1000000#"reference"#200420755#639292068241#651704085401#15
+
+
+real	10m52.078s
+user	0m33.156s
+sys	0m58.052s
+Adding 1000000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1000000 2`
+[RustVector]#1000000#"reference"#197283554#631671051345#643994277531#15
+
+
+real	10m44.370s
+user	0m33.308s
+sys	0m57.652s
+Adding 1000000 elements in Run number  3 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1000000 2`
+[RustVector]#1000000#"reference"#197394152#629751534433#641921371926#15
+
+
+real	10m42.298s
+user	0m33.188s
+sys	0m56.904s
+Adding 1000000 elements in Run number  4 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1000000 2`
+[RustVector]#1000000#"reference"#199658830#630357305229#642613578304#15
+
+
+real	10m42.992s
+user	0m32.788s
+sys	0m57.136s
+Adding 1000000 elements in Run number  5 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1000000 2`
+[RustVector]#1000000#"reference"#198011697#636083253472#648398078750#15
+
+
+real	10m48.774s
+user	0m33.068s
+sys	0m59.464s
+Adding 1000000 elements in Run number  1 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1000000 3`
+[RustVector]#1000000#"slice"#323996268#629237183220#641651643729#15
+
+
+real	10m42.033s
+user	0m32.696s
+sys	0m57.620s
+Adding 1000000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1000000 3`
+[RustVector]#1000000#"slice"#321072654#624951477300#637246300381#15
+
+
+real	10m37.626s
+user	0m33.312s
+sys	0m57.268s
+Adding 1000000 elements in Run number  3 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1000000 3`
+[RustVector]#1000000#"slice"#322473277#626287221037#638797361674#15
+
+
+real	10m39.175s
+user	0m33.188s
+sys	0m57.524s
+Adding 1000000 elements in Run number  4 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1000000 3`
+[RustVector]#1000000#"slice"#323232551#626115599139#638528952707#15
+
+
+real	10m38.904s
+user	0m33.236s
+sys	0m56.324s
+Adding 1000000 elements in Run number  5 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1000000 3`
+[RustVector]#1000000#"slice"#317645761#632676138463#645094316775#15
+
+
+real	10m45.474s
+user	0m33.376s
+sys	0m57.432s
+Adding 1500000 elements in Run number  1 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 1`
+[RustVector]#1500000#"own"#583858064#945487381991#964332802607#15
+
+
+real	16m4.892s
+user	0m50.440s
+sys	1m25.804s
+Adding 1500000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 1`
+[RustVector]#1500000#"own"#534730308#939040143514#957740085607#15
+
+
+real	15m58.331s
+user	0m50.236s
+sys	1m24.684s
+Adding 1500000 elements in Run number  3 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 1`
+[RustVector]#1500000#"own"#533296966#952104644577#970906483079#15
+
+
+real	16m11.464s
+user	0m49.832s
+sys	1m26.064s
+Adding 1500000 elements in Run number  4 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 1`
+[RustVector]#1500000#"own"#533860095#933433766131#952020076981#15
+
+
+real	15m52.598s
+user	0m48.116s
+sys	1m23.980s
+Adding 1500000 elements in Run number  5 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 1`
+[RustVector]#1500000#"own"#531498732#931135145366#949952397567#15
+
+
+real	15m50.514s
+user	0m47.776s
+sys	1m23.552s
+Adding 1500000 elements in Run number  1 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 2`
+[RustVector]#1500000#"reference"#299075554#932740431444#951201677265#15
+
+
+real	15m51.779s
+user	0m50.268s
+sys	1m22.884s
+Adding 1500000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 2`
+[RustVector]#1500000#"reference"#298609182#949382530970#967923529469#15
+
+
+real	16m8.488s
+user	0m50.352s
+sys	1m25.680s
+Adding 1500000 elements in Run number  3 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 2`
+[RustVector]#1500000#"reference"#344692342#957087791775#975722083481#15
+
+
+real	16m16.283s
+user	0m50.620s
+sys	1m28.488s
+Adding 1500000 elements in Run number  4 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 2`
+[RustVector]#1500000#"reference"#308569859#949906302984#968246624716#15
+
+
+real	16m8.836s
+user	0m49.764s
+sys	1m27.744s
+Adding 1500000 elements in Run number  5 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 2`
+[RustVector]#1500000#"reference"#304310765#935280776432#953622241610#15
+
+
+real	15m54.197s
+user	0m49.484s
+sys	1m25.832s
+Adding 1500000 elements in Run number  1 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 3`
+[RustVector]#1500000#"slice"#562049692#913887431605#932508639435#15
+
+
+real	15m33.076s
+user	0m47.424s
+sys	1m20.128s
+Adding 1500000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 3`
+[RustVector]#1500000#"slice"#499359899#940937899066#959644189403#15
+
+
+real	16m0.200s
+user	0m49.108s
+sys	1m22.284s
+Adding 1500000 elements in Run number  3 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 3`
+[RustVector]#1500000#"slice"#487444707#944173456718#962977211389#15
+
+
+real	16m3.548s
+user	0m49.104s
+sys	1m24.652s
+Adding 1500000 elements in Run number  4 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 3`
+[RustVector]#1500000#"slice"#473878617#929544410505#948258082584#15
+
+
+real	15m48.815s
+user	0m48.612s
+sys	1m22.496s
+Adding 1500000 elements in Run number  5 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 3`
+[RustVector]#1500000#"slice"#502203507#944205438854#962979456120#15
+
+
+real	16m3.575s
+user	0m50.460s
+sys	1m24.184s
+Adding 10000000 elements in Run number  1 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 10000000 1`
+[RustVector]#10000000#"own"#3908439827#6270607409721#6396905537662#15
+
+
+real	106m41.356s
+user	5m45.496s
+sys	9m17.556s
+Adding 10000000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 10000000 1`
+[RustVector]#10000000#"own"#3555251786#6259350802895#6386762478915#15
+
+
+real	106m31.863s
+user	5m53.548s
+sys	9m13.772s
+Adding 10000000 elements in Run number  3 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 10000000 1`
+[RustVector]#10000000#"own"#3631631379#6291547165804#6419287143437#15
+
+
+real	107m4.060s
+user	5m42.564s
+sys	9m5.820s
+Adding 10000000 elements in Run number  4 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 10000000 1`
+   Compiling libc v0.2.66
+   Compiling getrandom v0.1.14
+   Compiling cfg-if v0.1.10
+   Compiling ppv-lite86 v0.2.6
+   Compiling bytes v0.5.4
+   Compiling c2-chacha v0.2.3
+   Compiling libc v0.2.66
+   Compiling getrandom v0.1.14
+   Compiling cfg-if v0.1.10
+   Compiling ppv-lite86 v0.2.6
+   Compiling bytes v0.5.4
+   Compiling c2-chacha v0.2.3
+   Compiling rand_core v0.5.1
+   Compiling rand_chacha v0.2.1
+   Compiling rand v0.7.3
+   Compiling rust_object_ref_own_slice v0.1.0 (/home/goli4goli6/research/master-thesis/project/rust_object_ref_own_slice)
+    Finished release [optimized] target(s) in 16.86s
+Adding 1000000 elements in Run number  1 
+   Compiling libc v0.2.66
+   Compiling getrandom v0.1.14
+   Compiling cfg-if v0.1.10
+   Compiling ppv-lite86 v0.2.6
+   Compiling bytes v0.5.4
+   Compiling c2-chacha v0.2.3
+   Compiling rand_core v0.5.1
+   Compiling rand_chacha v0.2.1
+   Compiling rand v0.7.3
+   Compiling rust_object_ref_own_slice v0.1.0 (/home/goli4goli6/research/master-thesis/project/rust_object_ref_own_slice)
+    Finished dev [unoptimized + debuginfo] target(s) in 13.71s
+     Running `target/debug/rust_object_ref_own_slice 1000000 1`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05NA3f2\0\0\0\x05NA3f2\0\0\0\x05NA3f2"`,
+ right: `[]`', src/main.rs:80:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	0m29.432s
+user	0m23.904s
+sys	0m1.516s
+Adding 1000000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 1000000 1`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05WAi9r\0\0\0\x05WAi9r\0\0\0\x05WAi9r"`,
+ right: `[]`', src/main.rs:79:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	90m30.349s
+user	5m9.420s
+sys	7m39.484s
+Adding 10000000 elements in Run number  5 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 10000000 1`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05gkSUV\0\0\0\x05gkSUV\0\0\0\x05gkSUV"`,
+ right: `[]`', src/main.rs:80:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	2m33.923s
+user	2m9.180s
+sys	0m5.800s
+Adding 10000000 elements in Run number  1 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 10000000 2`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05AqdMC\0\0\0\x05AqdMC\0\0\0\x05AqdMC"`,
+ right: `[]`', src/main.rs:80:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	5m20.781s
+user	0m23.320s
+sys	0m26.668s
+Adding 1000000 elements in Run number  3 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 1000000 1`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05iaffZ\0\0\0\x05iaffZ\0\0\0\x05iaffZ"`,
+ right: `[]`', src/main.rs:102:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	2m44.930s
+user	2m7.480s
+sys	0m5.372s
+Adding 10000000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 10000000 2`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05dC5di\0\0\0\x05dC5di\0\0\0\x05dC5di"`,
+ right: `[]`', src/main.rs:80:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	2m45.157s
+user	0m18.584s
+sys	0m12.964s
+Adding 1000000 elements in Run number  4 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 1000000 1`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05qMpwi\0\0\0\x05qMpwi\0\0\0\x05qMpwi"`,
+ right: `[]`', src/main.rs:102:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	2m45.072s
+user	2m8.080s
+sys	0m5.136s
+Adding 10000000 elements in Run number  3 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 10000000 2`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x051Qq7r\0\0\0\x051Qq7r\0\0\0\x051Qq7r"`,
+ right: `[]`', src/main.rs:80:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	2m46.506s
+user	0m18.644s
+sys	0m13.052s
+Adding 1000000 elements in Run number  5 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 1000000 1`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x051bgBh\0\0\0\x051bgBh\0\0\0\x051bgBh"`,
+ right: `[]`', src/main.rs:80:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	0m15.314s
+user	0m12.876s
+sys	0m0.408s
+Adding 1000000 elements in Run number  1 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 1000000 2`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05zmIhf\0\0\0\x05zmIhf\0\0\0\x05zmIhf"`,
+ right: `[]`', src/main.rs:102:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	3m1.957s
+user	2m9.412s
+sys	0m6.620s
+Adding 10000000 elements in Run number  4 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 10000000 2`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05CQij4\0\0\0\x05CQij4\0\0\0\x05CQij4"`,
+ right: `[]`', src/main.rs:102:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	2m44.954s
+user	0m18.044s
+sys	0m13.048s
+Adding 1000000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 1000000 2`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05iGXt3\0\0\0\x05iGXt3\0\0\0\x05iGXt3"`,
+ right: `[]`', src/main.rs:102:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	2m44.766s
+user	2m7.676s
+sys	0m5.424s
+Adding 10000000 elements in Run number  5 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 10000000 2`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05mLfKa\0\0\0\x05mLfKa\0\0\0\x05mLfKa"`,
+ right: `[]`', src/main.rs:102:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	2m44.707s
+user	0m18.064s
+sys	0m13.188s
+Adding 1000000 elements in Run number  3 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 1000000 2`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05WfEWJ\0\0\0\x05WfEWJ\0\0\0\x05WfEWJ"`,
+ right: `[]`', src/main.rs:102:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	2m45.139s
+user	2m7.452s
+sys	0m5.392s
+Adding 10000000 elements in Run number  1 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 10000000 3`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05LX4zs\0\0\0\x05LX4zs\0\0\0\x05LX4zs"`,
+ right: `[]`', src/main.rs:124:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	2m31.704s
+user	2m8.872s
+sys	0m4.208s
+Adding 10000000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 10000000 3`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05BLBn7\0\0\0\x05BLBn7\0\0\0\x05BLBn7"`,
+ right: `[]`', src/main.rs:102:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	5m18.594s
+user	0m22.956s
+sys	0m26.412s
+Adding 1000000 elements in Run number  4 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 1000000 2`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05B5thq\0\0\0\x05B5thq\0\0\0\x05B5thq"`,
+ right: `[]`', src/main.rs:102:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	0m15.441s
+user	0m12.724s
+sys	0m0.428s
+Adding 1000000 elements in Run number  5 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1000000 2`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05NJepF\0\0\0\x05NJepF\0\0\0\x05NJepF"`,
+ right: `[]`', src/main.rs:102:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	0m15.275s
+user	0m12.760s
+sys	0m0.392s
+Adding 1000000 elements in Run number  1 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1000000 3`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05FayRg\0\0\0\x05FayRg\0\0\0\x05FayRg"`,
+ right: `[]`', src/main.rs:124:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	3m17.313s
+user	2m10.252s
+sys	0m7.532s
+Adding 10000000 elements in Run number  3 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 10000000 3`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x054OU7h\0\0\0\x054OU7h\0\0\0\x054OU7h"`,
+ right: `[]`', src/main.rs:124:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	2m47.063s
+user	0m18.596s
+sys	0m13.072s
+Adding 1000000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 1000000 3`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x053Afcn\0\0\0\x053Afcn\0\0\0\x053Afcn"`,
+ right: `[]`', src/main.rs:124:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	0m15.758s
+user	0m12.944s
+sys	0m0.396s
+Adding 1000000 elements in Run number  3 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 1000000 3`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05TIftf\0\0\0\x05TIftf\0\0\0\x05TIftf"`,
+ right: `[]`', src/main.rs:124:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	0m15.166s
+user	0m12.792s
+sys	0m0.468s
+Adding 1000000 elements in Run number  4 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 1000000 3`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05sSrrY\0\0\0\x05sSrrY\0\0\0\x05sSrrY"`,
+ right: `[]`', src/main.rs:124:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	3m18.062s
+user	2m10.960s
+sys	0m7.684s
+Adding 10000000 elements in Run number  4 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 10000000 3`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x058QlAp\0\0\0\x058QlAp\0\0\0\x058QlAp"`,
+ right: `[]`', src/main.rs:124:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	2m32.474s
+user	2m8.720s
+sys	0m4.184s
+Adding 10000000 elements in Run number  5 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 10000000 3`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05xBnYs\0\0\0\x05xBnYs\0\0\0\x05xBnYs"`,
+ right: `[]`', src/main.rs:124:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	2m31.000s
+user	2m8.252s
+sys	0m4.108s
+Adding 15000000 elements in Run number  1 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 15000000 1`
+memory allocation of 1080000000 bytes failed./run.sh: line 13: 20252 Aborted                 taskset -c 0 cargo run $size $field
+
+real	3m34.720s
+user	3m2.704s
+sys	0m5.984s
+Adding 15000000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 15000000 1`
+[RustVector]#1000000#"slice"#370#588871#603639#15
+
+
+real	10m4.464s
+user	0m32.144s
+sys	0m51.540s
+Adding 1000000 elements in Run number  5 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.03s
+     Running `target/debug/rust_object_ref_own_slice 1000000 3`
+memory allocation of 1080000000 bytes failed./run.sh: line 13: 20292 Aborted                 taskset -c 0 cargo run $size $field
+
+real	3m45.612s
+user	3m3.004s
+sys	0m5.528s
+Adding 15000000 elements in Run number  3 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 15000000 1`
+memory allocation of 1080000000 bytes failed./run.sh: line 13: 20337 Aborted                 taskset -c 0 cargo run $size $field
+
+real	3m36.578s
+user	3m4.084s
+sys	0m6.044s
+Adding 15000000 elements in Run number  4 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 15000000 1`
+memory allocation of 1080000000 bytes failed./run.sh: line 13: 20377 Aborted                 taskset -c 0 cargo run $size $field
+
+real	3m35.927s
+user	3m3.164s
+sys	0m6.268s
+Adding 15000000 elements in Run number  5 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 15000000 1`
+[RustVector]#1000000#"slice"#647#595900#620940#15
+
+
+real	10m21.770s
+user	0m31.308s
+sys	0m52.908s
+Adding 1500000 elements in Run number  1 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.03s
+     Running `target/debug/rust_object_ref_own_slice 1500000 1`
+memory allocation of 1080000000 bytes failed./run.sh: line 13: 20454 Aborted                 taskset -c 0 cargo run $size $field
+
+real	3m51.419s
+user	3m2.968s
+sys	0m5.804s
+Adding 15000000 elements in Run number  1 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 15000000 2`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05pujf9\0\0\0\x05pujf9\0\0\0\x05pujf9"`,
+ right: `[]`', src/main.rs:80:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	7m0.679s
+user	0m31.672s
+sys	0m32.888s
+Adding 1500000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 1500000 1`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05TDqXN\0\0\0\x05TDqXN\0\0\0\x05TDqXN"`,
+ right: `[]`', src/main.rs:102:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	4m9.018s
+user	3m12.740s
+sys	0m8.556s
+Adding 15000000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 15000000 2`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05J3sVj\0\0\0\x05J3sVj\0\0\0\x05J3sVj"`,
+ right: `[]`', src/main.rs:102:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	3m44.308s
+user	3m10.920s
+sys	0m5.904s
+Adding 15000000 elements in Run number  3 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 15000000 2`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05IPXZU\0\0\0\x05IPXZU\0\0\0\x05IPXZU"`,
+ right: `[]`', src/main.rs:80:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	7m51.875s
+user	0m34.548s
+sys	0m38.824s
+Adding 1500000 elements in Run number  3 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 1500000 1`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x054rZzw\0\0\0\x054rZzw\0\0\0\x054rZzw"`,
+ right: `[]`', src/main.rs:102:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	4m7.845s
+user	3m11.876s
+sys	0m8.032s
+Adding 15000000 elements in Run number  4 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 15000000 2`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05ukDaU\0\0\0\x05ukDaU\0\0\0\x05ukDaU"`,
+ right: `[]`', src/main.rs:102:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	3m43.468s
+user	3m10.740s
+sys	0m6.180s
+Adding 15000000 elements in Run number  5 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 15000000 2`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05B5thq\0\0\0\x05B5thq\0\0\0\x05B5thq"`,
+ right: `[]`', src/main.rs:102:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	3m44.925s
+user	3m10.960s
+sys	0m6.404s
+Adding 15000000 elements in Run number  1 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 15000000 3`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05FF3xD\0\0\0\x05FF3xD\0\0\0\x05FF3xD"`,
+ right: `[]`', src/main.rs:80:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	11m40.108s
+user	0m40.652s
+sys	0m59.268s
+Adding 1500000 elements in Run number  4 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.90s
+     Running `target/debug/rust_object_ref_own_slice 1500000 1`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x0526ES3\0\0\0\x0526ES3\0\0\0\x0526ES3"`,
+ right: `[]`', src/main.rs:124:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	4m13.227s
+user	3m14.120s
+sys	0m8.564s
+Adding 15000000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.46s
+     Running `target/debug/rust_object_ref_own_slice 15000000 3`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x059NcNv\0\0\0\x059NcNv\0\0\0\x059NcNv"`,
+ right: `[]`', src/main.rs:80:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	4m11.685s
+user	0m27.472s
+sys	0m19.660s
+Adding 1500000 elements in Run number  5 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 1500000 1`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05qMtdz\0\0\0\x05qMtdz\0\0\0\x05qMtdz"`,
+ right: `[]`', src/main.rs:80:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	0m22.699s
+user	0m19.184s
+sys	0m0.692s
+Adding 1500000 elements in Run number  1 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 1500000 2`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05CEec5\0\0\0\x05CEec5\0\0\0\x05CEec5"`,
+ right: `[]`', src/main.rs:102:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	0m22.355s
+user	0m18.992s
+sys	0m0.604s
+Adding 1500000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 2`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x0511B5V\0\0\0\x0511B5V\0\0\0\x0511B5V"`,
+ right: `[0, 0, 0, 5, 81, 114, 74, 114, 81, 0, 0, 0, 5, 81, 114, 74, 114, 81, 0, 0, 0, 5, 81, 114, 74, 114, 81]`', src/main.rs:124:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	4m54.416s
+user	3m15.448s
+sys	0m11.416s
+Adding 15000000 elements in Run number  3 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 15000000 3`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05bpNu5\0\0\0\x05bpNu5\0\0\0\x05bpNu5"`,
+ right: `[]`', src/main.rs:124:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	3m45.850s
+user	3m12.256s
+sys	0m6.188s
+Adding 15000000 elements in Run number  4 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 15000000 3`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05tqjQv\0\0\0\x05tqjQv\0\0\0\x05tqjQv"`,
+ right: `[]`', src/main.rs:102:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	7m55.635s
+user	0m34.344s
+sys	0m39.116s
+Adding 1500000 elements in Run number  3 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 1500000 2`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05zO8MA\0\0\0\x05zO8MA\0\0\0\x05zO8MA"`,
+ right: `[]`', src/main.rs:102:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	0m22.664s
+user	0m19.080s
+sys	0m0.712s
+Adding 1500000 elements in Run number  4 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 1500000 2`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05TPdyS\0\0\0\x05TPdyS\0\0\0\x05TPdyS"`,
+ right: `[]`', src/main.rs:124:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	4m32.408s
+user	3m14.536s
+sys	0m9.840s
+Adding 15000000 elements in Run number  5 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/rust_object_ref_own_slice 15000000 3`
+thread 'main' panicked at 'assertion failed: `(left == right)`
+  left: `b"\0\0\0\x05f6OFM\0\0\0\x05f6OFM\0\0\0\x05f6OFM"`,
+ right: `[]`', src/main.rs:124:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+real	3m47.291s
+user	3m13.092s
+sys	0m6.496s
+[RustVector]#1500000#"reference"#346#927012#948826#15
+
+
+real	15m49.448s
+user	0m50.504s
+sys	1m20.692s
+Adding 1500000 elements in Run number  5 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 2`
+[RustVector]#1500000#"reference"#304#946317#964828#15
+
+
+real	16m5.429s
+user	0m50.088s
+sys	1m21.884s
+Adding 1500000 elements in Run number  1 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 3`
+[RustVector]#1500000#"slice"#507#957437#976077#15
+
+
+real	16m16.646s
+user	0m50.956s
+sys	1m23.956s
+Adding 1500000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 3`
+[RustVector]#1500000#"slice"#486#965808#984490#15
+
+
+real	16m25.044s
+user	0m51.640s
+sys	1m25.456s
+Adding 1500000 elements in Run number  3 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 3`
+[RustVector]#1500000#"slice"#493#953296#972178#15
+
+
+real	16m12.735s
+user	0m49.444s
+sys	1m25.264s
+Adding 1500000 elements in Run number  4 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 3`
+[RustVector]#1500000#"slice"#483#945860#964600#15
+
+
+real	16m5.154s
+user	0m49.296s
+sys	1m23.988s
+Adding 1500000 elements in Run number  5 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 3`
+[RustVector]#1500000#"slice"#476#947006#965688#15
+
+
+real	16m6.246s
+user	0m50.020s
+sys	1m23.696s
+Adding 10000000 elements in Run number  1 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 10000000 1`
+[RustVector]#10000000#"own"#4365#6346626#6475082#15
+
+
+real	107m59.235s
+user	5m42.360s
+sys	9m22.308s
+Adding 10000000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.03s
+     Running `target/debug/rust_object_ref_own_slice 10000000 1`
+   Compiling libc v0.2.66
+   Compiling getrandom v0.1.14
+   Compiling cfg-if v0.1.10
+   Compiling ppv-lite86 v0.2.6
+   Compiling bytes v0.5.4
+   Compiling c2-chacha v0.2.3
+   Compiling rand_core v0.5.1
+   Compiling rand_chacha v0.2.1
+   Compiling rand v0.7.3
+   Compiling rust_object_ref_own_slice v0.1.0 (/home/goli4goli6/research/master-thesis/project/rust_object_ref_own_slice)
+    Finished release [optimized] target(s) in 25.17s
+Adding 1000000 elements in Run number  1 
+   Compiling libc v0.2.66
+   Compiling getrandom v0.1.14
+   Compiling cfg-if v0.1.10
+   Compiling ppv-lite86 v0.2.6
+   Compiling bytes v0.5.4
+   Compiling c2-chacha v0.2.3
+   Compiling rand_core v0.5.1
+   Compiling rand_chacha v0.2.1
+   Compiling rand v0.7.3
+   Compiling rust_object_ref_own_slice v0.1.0 (/home/goli4goli6/research/master-thesis/project/rust_object_ref_own_slice)
+    Finished dev [unoptimized + debuginfo] target(s) in 10.59s
+     Running `target/debug/rust_object_ref_own_slice 1000000 1`
+[RustVector]#1000000#"own"#366616#3676588#16182479#15
+
+
+real	0m27.128s
+user	0m26.196s
+sys	0m0.736s
+Adding 1000000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1000000 1`
+[RustVector]#1000000#"own"#359260#3695360#16258336#15
+
+
+real	0m16.638s
+user	0m16.472s
+sys	0m0.144s
+Adding 1000000 elements in Run number  3 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1000000 1`
+[RustVector]#1000000#"own"#355793#3679640#16241544#15
+
+
+real	0m16.619s
+user	0m16.432s
+sys	0m0.168s
+Adding 1000000 elements in Run number  4 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1000000 1`
+[RustVector]#1000000#"own"#347759#3660047#16279953#15
+
+
+real	0m16.652s
+user	0m16.448s
+sys	0m0.188s
+Adding 1000000 elements in Run number  5 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1000000 1`
+[RustVector]#1000000#"own"#358648#3677938#16176749#15
+
+
+real	0m16.552s
+user	0m16.392s
+sys	0m0.128s
+Adding 1000000 elements in Run number  1 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1000000 2`
+[RustVector]#1000000#"reference"#200523#3705580#16105655#15
+
+
+real	0m16.480s
+user	0m16.288s
+sys	0m0.168s
+Adding 1000000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1000000 2`
+[RustVector]#1000000#"reference"#198045#3672041#16039878#15
+
+
+real	0m16.410s
+user	0m16.264s
+sys	0m0.132s
+Adding 1000000 elements in Run number  3 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1000000 2`
+[RustVector]#1000000#"reference"#197375#3650950#15947285#15
+
+
+real	0m16.320s
+user	0m16.184s
+sys	0m0.120s
+Adding 1000000 elements in Run number  4 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1000000 2`
+[RustVector]#1000000#"reference"#198095#3693933#16085200#15
+
+
+real	0m16.461s
+user	0m16.304s
+sys	0m0.124s
+Adding 1000000 elements in Run number  5 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1000000 2`
+[RustVector]#1000000#"reference"#196969#3695465#16103070#15
+
+
+real	0m16.477s
+user	0m16.300s
+sys	0m0.156s
+Adding 1000000 elements in Run number  1 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1000000 3`
+[RustVector]#1000000#"slice"#315752#3594116#16058241#15
+
+
+real	0m16.429s
+user	0m16.260s
+sys	0m0.152s
+Adding 1000000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1000000 3`
+[RustVector]#1000000#"slice"#317929#3589676#16032532#15
+
+
+real	0m16.409s
+user	0m16.256s
+sys	0m0.132s
+Adding 1000000 elements in Run number  3 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1000000 3`
+[RustVector]#1000000#"slice"#318376#3594340#16144313#15
+
+
+real	0m16.517s
+user	0m16.380s
+sys	0m0.104s
+Adding 1000000 elements in Run number  4 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1000000 3`
+[RustVector]#1000000#"slice"#321010#3638429#16169402#15
+
+
+real	0m16.551s
+user	0m16.340s
+sys	0m0.192s
+Adding 1000000 elements in Run number  5 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1000000 3`
+[RustVector]#1000000#"slice"#317543#3584919#16130911#15
+
+
+real	0m16.507s
+user	0m16.328s
+sys	0m0.164s
+Adding 1500000 elements in Run number  1 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 1`
+[RustVector]#1500000#"own"#560079#5560821#24382988#15
+
+
+real	0m24.933s
+user	0m24.644s
+sys	0m0.268s
+Adding 1500000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 1`
+[RustVector]#1500000#"own"#542412#5496911#24414436#15
+
+
+real	0m24.953s
+user	0m24.648s
+sys	0m0.264s
+Adding 1500000 elements in Run number  3 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 1`
+[RustVector]#1500000#"own"#533969#5539030#24215442#15
+
+
+real	0m24.753s
+user	0m24.568s
+sys	0m0.168s
+Adding 1500000 elements in Run number  4 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 1`
+[RustVector]#1500000#"own"#536964#5498838#24311587#15
+
+
+real	0m24.850s
+user	0m24.620s
+sys	0m0.196s
+Adding 1500000 elements in Run number  5 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 1`
+[RustVector]#1500000#"own"#544800#5590413#24375048#15
+
+
+real	0m24.916s
+user	0m24.656s
+sys	0m0.236s
+Adding 1500000 elements in Run number  1 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 2`
+[RustVector]#1500000#"reference"#296483#5559258#24074921#15
+
+
+real	0m24.620s
+user	0m24.400s
+sys	0m0.200s
+Adding 1500000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 2`
+[RustVector]#1500000#"reference"#298164#5514854#24127301#15
+
+
+real	0m24.667s
+user	0m24.420s
+sys	0m0.212s
+Adding 1500000 elements in Run number  3 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 2`
+[RustVector]#1500000#"reference"#295878#5480106#23963702#15
+
+
+real	0m24.507s
+user	0m24.272s
+sys	0m0.220s
+Adding 1500000 elements in Run number  4 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 2`
+[RustVector]#1500000#"reference"#293726#5547059#24139246#15
+
+
+real	0m24.684s
+user	0m24.476s
+sys	0m0.184s
+Adding 1500000 elements in Run number  5 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 2`
+[RustVector]#1500000#"reference"#297282#5478137#23973498#15
+
+
+real	0m24.513s
+user	0m24.296s
+sys	0m0.184s
+Adding 1500000 elements in Run number  1 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 3`
+[RustVector]#1500000#"slice"#486383#5414573#24119788#15
+
+
+real	0m24.669s
+user	0m24.428s
+sys	0m0.176s
+Adding 1500000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 3`
+[RustVector]#1500000#"slice"#490397#5452679#24240336#15
+
+
+real	0m24.786s
+user	0m24.568s
+sys	0m0.184s
+Adding 1500000 elements in Run number  3 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 3`
+[RustVector]#1500000#"slice"#476454#5382643#24112122#15
+
+
+real	0m24.656s
+user	0m24.428s
+sys	0m0.184s
+Adding 1500000 elements in Run number  4 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 3`
+[RustVector]#1500000#"slice"#482033#5391272#24115528#15
+
+
+real	0m24.656s
+user	0m24.440s
+sys	0m0.196s
+Adding 1500000 elements in Run number  5 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 1500000 3`
+[RustVector]#1500000#"slice"#479554#5381947#23986358#15
+
+
+real	0m24.535s
+user	0m24.288s
+sys	0m0.212s
+Adding 10000000 elements in Run number  1 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 10000000 1`
+[RustVector]#10000000#"own"#3960949#36954903#163922471#15
+
+
+real	2m47.368s
+user	2m43.820s
+sys	0m3.452s
+Adding 10000000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 10000000 1`
+[RustVector]#10000000#"own"#3587863#36825639#162220922#15
+
+
+real	2m45.673s
+user	2m44.000s
+sys	0m1.576s
+Adding 10000000 elements in Run number  3 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 10000000 1`
+[RustVector]#10000000#"own"#3566980#36613490#161926988#15
+
+
+real	2m45.449s
+user	2m43.660s
+sys	0m1.672s
+Adding 10000000 elements in Run number  4 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 10000000 1`
+[RustVector]#10000000#"own"#3663610#36777274#162854739#15
+
+
+real	2m46.299s
+user	2m44.440s
+sys	0m1.752s
+Adding 10000000 elements in Run number  5 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 10000000 1`
+[RustVector]#10000000#"own"#3613951#36665899#161848819#15
+
+
+real	2m45.278s
+user	2m43.492s
+sys	0m1.672s
+Adding 10000000 elements in Run number  1 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 10000000 2`
+[RustVector]#10000000#"reference"#1976195#37069476#161513429#15
+
+
+real	2m45.013s
+user	2m43.432s
+sys	0m1.480s
+Adding 10000000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 10000000 2`
+[RustVector]#10000000#"reference"#1999101#36712582#160698294#15
+
+
+real	2m44.159s
+user	2m42.540s
+sys	0m1.508s
+Adding 10000000 elements in Run number  3 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 10000000 2`
+[RustVector]#10000000#"reference"#1997401#36793730#160943847#15
+
+
+real	2m44.432s
+user	2m42.876s
+sys	0m1.460s
+Adding 10000000 elements in Run number  4 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 10000000 2`
+[RustVector]#10000000#"reference"#2029542#37015550#160798902#15
+
+
+real	2m44.280s
+user	2m42.744s
+sys	0m1.436s
+Adding 10000000 elements in Run number  5 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 10000000 2`
+[RustVector]#10000000#"reference"#2039670#37339374#160969420#15
+
+
+real	2m44.416s
+user	2m42.868s
+sys	0m1.432s
+Adding 10000000 elements in Run number  1 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 10000000 3`
+[RustVector]#10000000#"slice"#3238017#35747005#160567741#15
+
+
+real	2m44.096s
+user	2m42.400s
+sys	0m1.564s
+Adding 10000000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 10000000 3`
+[RustVector]#10000000#"slice"#3276922#35633926#160788423#15
+
+
+real	2m44.249s
+user	2m42.628s
+sys	0m1.504s
+Adding 10000000 elements in Run number  3 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 10000000 3`
+[RustVector]#10000000#"slice"#3303959#36581998#161907822#15
+
+
+real	2m45.312s
+user	2m43.704s
+sys	0m1.512s
+Adding 10000000 elements in Run number  4 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 10000000 3`
+[RustVector]#10000000#"slice"#3192723#35705359#160443902#15
+
+
+real	2m43.958s
+user	2m42.356s
+sys	0m1.500s
+Adding 10000000 elements in Run number  5 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 10000000 3`
+[RustVector]#10000000#"slice"#3264869#35593940#160196668#15
+
+
+real	2m43.649s
+user	2m42.112s
+sys	0m1.428s
+Adding 15000000 elements in Run number  1 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 15000000 1`
+[RustVector]#15000000#"own"#7182108#54914765#244648926#15
+
+
+real	4m10.038s
+user	4m5.420s
+sys	0m4.264s
+Adding 15000000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 1.44s
+     Running `target/debug/rust_object_ref_own_slice 15000000 1`
+[RustVector]#15000000#"own"#5416942#55250166#242750954#15
+
+
+real	4m10.762s
+user	4m5.436s
+sys	0m2.392s
+Adding 15000000 elements in Run number  3 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 15000000 1`
+[RustVector]#15000000#"own"#5386624#55179701#243075059#15
+
+
+real	4m8.277s
+user	4m5.648s
+sys	0m2.428s
+Adding 15000000 elements in Run number  4 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 15000000 1`
+[RustVector]#15000000#"own"#5611494#55412234#244143507#15
+
+
+real	4m9.343s
+user	4m6.680s
+sys	0m2.456s
+Adding 15000000 elements in Run number  5 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 15000000 1`
+[RustVector]#15000000#"own"#5403601#55310768#243119466#15
+
+
+real	4m8.640s
+user	4m5.760s
+sys	0m2.440s
+Adding 15000000 elements in Run number  1 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 15000000 2`
+[RustVector]#15000000#"reference"#2971388#55223812#241537341#15
+
+
+real	4m6.755s
+user	4m4.492s
+sys	0m2.104s
+Adding 15000000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 15000000 2`
+[RustVector]#15000000#"reference"#2963146#54846879#240634407#15
+
+
+real	4m5.868s
+user	4m3.532s
+sys	0m2.184s
+Adding 15000000 elements in Run number  3 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 15000000 2`
+[RustVector]#15000000#"reference"#2994204#55233830#241359280#15
+
+
+real	4m6.741s
+user	4m4.492s
+sys	0m2.096s
+Adding 15000000 elements in Run number  4 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 15000000 2`
+[RustVector]#15000000#"reference"#3012667#55441993#241325242#15
+
+
+real	4m6.654s
+user	4m4.464s
+sys	0m2.028s
+Adding 15000000 elements in Run number  5 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 15000000 2`
+[RustVector]#15000000#"reference"#3003437#55503575#241693271#15
+
+
+real	4m7.049s
+user	4m4.672s
+sys	0m2.192s
+Adding 15000000 elements in Run number  1 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 15000000 3`
+[RustVector]#15000000#"slice"#4893811#56278499#244070829#15
+
+
+real	4m9.333s
+user	4m6.776s
+sys	0m2.392s
+Adding 15000000 elements in Run number  2 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 15000000 3`
+[RustVector]#15000000#"slice"#4827025#54018773#241525855#15
+
+
+real	4m6.782s
+user	4m4.256s
+sys	0m2.368s
+Adding 15000000 elements in Run number  3 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 15000000 3`
+[RustVector]#15000000#"slice"#4841033#53816798#241858105#15
+
+
+real	4m7.135s
+user	4m4.640s
+sys	0m2.356s
+Adding 15000000 elements in Run number  4 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 15000000 3`
+[RustVector]#15000000#"slice"#4861799#53968723#242043377#15
+
+
+real	4m7.327s
+user	4m4.840s
+sys	0m2.332s
+Adding 15000000 elements in Run number  5 
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/rust_object_ref_own_slice 15000000 3`
+[RustVector]#15000000#"slice"#4877863#54125173#242157725#15
+
+
+real	4m7.439s
+user	4m4.976s
+sys	0m2.308s
